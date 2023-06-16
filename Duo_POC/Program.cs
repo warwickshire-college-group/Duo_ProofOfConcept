@@ -11,11 +11,11 @@ using System.Text.RegularExpressions;
 using System.Globalization;
 public class DuoAPI
 {
-    public string integrationKey = "DIPBYIT7J5WKL3YQVL1X";
-    public string secretKey = "ymmRiM8TGFKSfA9lFgPmMH0vdTrvcyutFd86nTWe";
-    public string apiHost = "api-c890f453.duosecurity.com";
+    public string integrationKey = "xxxx";
+    public string secretKey = "xxxxx";
+    public string apiHost = "xxxxx";
     public string username = "AAA_CBTEST";
-    public string adGUID = "DS7G99BKV10PMANVS5DX";
+    public string adGUID = "xxxxxx";
 }
 class Program
 {
